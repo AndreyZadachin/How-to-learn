@@ -1,6 +1,6 @@
 # How-to-learn
 
-## https://github.com/AndreyZadachin/News-Analizer/index.html
+## https://AndreyZadachin.github.io/How-to-learn/index.html
 
 ======
 
